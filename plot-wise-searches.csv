@@ -1,0 +1,248 @@
+,mwindex,plot,pos,word_count,stopw_count,unique_count,plotlemma,unique_words
+0,0,animals were harmed,"[('animal', 'NNS'), ('be', 'VBD'), ('harm', 'VBN')]",3,1,2,animal be harm,animal harm
+1,1,animals die,"[('animal', 'NNS'), ('die', 'VBP')]",2,0,2,animal die,animal die
+2,4,a child dies,"[('a', 'DT'), ('child', 'NN'), ('die', 'VBZ')]",3,1,2,a child die,child die
+3,5,ai takes over,"[('be', 'PRP'), ('take', 'VBZ'), ('over', 'RB')]",3,1,2,be take over,take
+5,8,bad boy falls in love,"[('bad', 'JJ'), ('boy', 'NN'), ('fall', 'VBZ'), ('in', 'IN'), ('love', 'NN')]",5,1,4,bad boy fall in love,bad boy fall love
+6,9,best friends fall in love,"[('good', 'JJS'), ('friend', 'NNS'), ('fall', 'VBP'), ('in', 'IN'), ('love', 'NN')]",5,1,4,good friend fall in love,good friend fall love
+7,10,bullies get what they deserve,"[('bully', 'NNS'), ('get', 'VBP'), ('what', 'WP'), ('they', 'PRP'), ('deserve', 'VBP')]",5,2,3,bully get what they deserve,bully get deserve
+8,11,bad guys win,"[('bad', 'JJ'), ('guy', 'NNS'), ('win', 'VBP')]",3,0,3,bad guy win,bad guy win
+9,12,bad guy saves girl,"[('bad', 'JJ'), ('guy', 'NN'), ('save', 'VBZ'), ('girl', 'NN')]",4,0,4,bad guy save girl,bad guy save girl
+10,13,boy saves girl,"[('boy', 'NN'), ('save', 'VBZ'), ('girl', 'NN')]",3,0,3,boy save girl,boy save girl
+11,14,black guy dies first,"[('black', 'JJ'), ('guy', 'NN'), ('die', 'VBZ'), ('first', 'RB')]",4,0,4,black guy die first,black guy die first
+12,15,boy saves girl from abuse,"[('boy', 'NN'), ('save', 'VBZ'), ('girl', 'NN'), ('from', 'IN'), ('abuse', 'NN')]",5,1,4,boy save girl from abuse,boy save girl abuse
+13,16,characters turn into animals,"[('character', 'NNS'), ('turn', 'VBP'), ('into', 'IN'), ('animal', 'NNS')]",4,1,3,character turn into animal,character turn animal
+14,19,childhood friends fall in love,"[('childhood', 'NN'), ('friend', 'NNS'), ('fall', 'VBP'), ('in', 'IN'), ('love', 'NN')]",5,1,4,childhood friend fall in love,childhood friend fall love
+15,20,characters come back to life,"[('character', 'NNS'), ('come', 'VBP'), ('back', 'RB'), ('to', 'IN'), ('life', 'NN')]",5,1,4,character come back to life,character come back life
+16,21,characters break the fourth wall,"[('character', 'NNS'), ('break', 'VBP'), ('the', 'DT'), ('fourth', 'JJ'), ('wall', 'NN')]",5,1,4,character break the fourth wall,character break fourth wall
+17,22,characters sacrifice themselves,"[('character', 'NNS'), ('sacrifice', 'VBP'), ('themselves', 'PRP')]",3,1,2,character sacrifice themselves,character sacrifice
+18,23,characters switch bodies,"[('character', 'NNS'), ('switch', 'VBP'), ('body', 'NNS')]",3,0,3,character switch body,character switch body
+19,24,dogs die,"[('dog', 'NNS'), ('die', 'VBP')]",2,0,2,dog die,dog die
+20,25,daughter gets kidnapped,"[('daughter', 'NN'), ('get', 'VBZ'), ('kidnap', 'VBN')]",3,0,3,daughter get kidnap,daughter get kidnap
+21,27,dogs talk,"[('dog', 'NNS'), ('talk', 'VBP')]",2,0,2,dog talk,dog talk
+22,28,days repeat,"[('day', 'NNS'), ('repeat', 'VBP')]",2,0,2,day repeat,day repeat
+23,29,drawings come to life,"[('drawing', 'NNS'), ('come', 'VBP'), ('to', 'IN'), ('life', 'NN')]",4,1,3,drawing come to life,drawing come life
+24,30,dolls come to life,"[('doll', 'NNS'), ('come', 'VBP'), ('to', 'IN'), ('life', 'NN')]",4,1,3,doll come to life,doll come life
+25,31,dreams come true,"[('dream', 'NNS'), ('come', 'VBP'), ('true', 'JJ')]",3,0,3,dream come true,dream come true
+26,32,everyone dies,"[('everyone', 'NN'), ('die', 'VBZ')]",2,0,2,everyone die,everyone die
+27,33,evil wins,"[('evil', 'JJ'), ('win', 'NNS')]",2,0,2,evil win,evil win
+28,34,enemies fall in love,"[('enemy', 'NNS'), ('fall', 'VBP'), ('in', 'IN'), ('love', 'NN')]",4,1,3,enemy fall in love,enemy fall love
+29,35,everyone disappears,"[('everyone', 'NN'), ('disappear', 'VBZ')]",2,0,2,everyone disappear,everyone disappear
+30,36,everything goes wrong,"[('everything', 'NN'), ('go', 'VBZ'), ('wrong', 'JJ')]",3,0,3,everything go wrong,everything go wrong
+31,37,earth is destroyed,"[('earth', 'NN'), ('be', 'VBZ'), ('destroy', 'VBN')]",3,1,2,earth be destroy,earth destroy
+32,38,enemies become friends,"[('enemy', 'NNS'), ('become', 'VBP'), ('friend', 'NNS')]",3,0,3,enemy become friend,enemy become friend
+33,39,exes get back together,"[('exe', 'NNS'), ('get', 'VBP'), ('back', 'RB'), ('together', 'RB')]",4,0,4,exe get back together,exe get back together
+34,40,friends fall in love,"[('friend', 'NNS'), ('fall', 'VBP'), ('in', 'IN'), ('love', 'NN')]",4,1,3,friend fall in love,friend fall love
+35,41,famous guy falls in love,"[('famous', 'JJ'), ('guy', 'NN'), ('fall', 'VBZ'), ('in', 'IN'), ('love', 'NN')]",5,1,4,famous guy fall in love,famous guy fall love
+36,42,friends become enemies,"[('friend', 'NNS'), ('become', 'VBP'), ('enemy', 'NNS')]",3,0,3,friend become enemy,friend become enemy
+37,43,fictional characters come to life,"[('fictional', 'JJ'), ('character', 'NNS'), ('come', 'VBP'), ('to', 'IN'), ('life', 'NN')]",5,1,4,fictional character come to life,fictional character come life
+38,44,fingers get cut off,"[('finger', 'NNS'), ('get', 'VBP'), ('cut', 'VBN'), ('off', 'RP')]",4,1,3,finger get cut off,finger get cut
+39,45,family goes on vacation,"[('family', 'NN'), ('go', 'VBZ'), ('on', 'IN'), ('vacation', 'NN')]",4,1,3,family go on vacation,family go vacation
+40,46,father dies,"[('father', 'NN'), ('die', 'VBZ')]",2,0,2,father die,father die
+41,47,friends become lovers,"[('friend', 'NNS'), ('become', 'VBP'), ('lover', 'NNS')]",3,0,3,friend become lover,friend become lover
+42,48,girl falls in love with bad guy,"[('girl', 'NN'), ('fall', 'VBZ'), ('in', 'IN'), ('love', 'NN'), ('with', 'IN'), ('bad', 'JJ'), ('guy', 'NN')]",7,2,5,girl fall in love with bad guy,girl fall love bad guy
+43,49,guy saves girl,"[('guy', 'NN'), ('save', 'VBZ'), ('girl', 'NN')]",3,0,3,guy save girl,guy save girl
+44,50,girl disguised as boy,"[('girl', 'NN'), ('disguise', 'VBN'), ('as', 'IN'), ('boy', 'NN')]",4,1,3,girl disguise as boy,girl disguise boy
+45,51,godzilla is the bad guy,"[('godzilla', 'NNP'), ('be', 'VBZ'), ('the', 'DT'), ('bad', 'JJ'), ('guy', 'NN')]",5,2,3,godzilla be the bad guy,godzilla bad guy
+46,52,good triumphs over evil,"[('good', 'JJ'), ('triumph', 'NNS'), ('over', 'IN'), ('evil', 'NN')]",4,1,3,good triumph over evil,good triumph evil
+47,53,girl falls in love with villain,"[('girl', 'NN'), ('fall', 'VBZ'), ('in', 'IN'), ('love', 'NN'), ('with', 'IN'), ('villain', 'NN')]",6,2,4,girl fall in love with villain,girl fall love villain
+48,54,girl falls in love with kidnapper,"[('girl', 'NN'), ('fall', 'VBZ'), ('in', 'IN'), ('love', 'NN'), ('with', 'IN'), ('kidnapper', 'NN')]",6,2,4,girl fall in love with kidnapper,girl fall love kidnapper
+49,55,girl is kidnapped,"[('girl', 'NN'), ('be', 'VBZ'), ('kidnap', 'VBN')]",3,1,2,girl be kidnap,girl kidnap
+50,56,humans turn into animals,"[('human', 'NNS'), ('turn', 'VBP'), ('into', 'IN'), ('animal', 'NNS')]",4,1,3,human turn into animal,human turn animal
+51,57,hero dies,"[('hero', 'NN'), ('die', 'VBZ')]",2,0,2,hero die,hero die
+52,58,husband kills wife,"[('husband', 'NN'), ('kill', 'VBZ'), ('wife', 'NN')]",3,0,3,husband kill wife,husband kill wife
+53,59,hate turns to love,"[('hate', 'VB'), ('turn', 'NNS'), ('to', 'TO'), ('love', 'VB')]",4,1,3,hate turn to love,hate turn love
+54,60,husband dies,"[('husband', 'NN'), ('die', 'VBZ')]",2,0,2,husband die,husband die
+55,61,heroine saves hero,"[('heroine', 'NN'), ('save', 'VBZ'), ('hero', 'NN')]",3,0,3,heroine save hero,heroine save hero
+56,62,humans are the invaders,"[('human', 'NNS'), ('be', 'VBP'), ('the', 'DT'), ('invader', 'NNS')]",4,2,2,human be the invader,human invader
+57,63,hero loses,"[('hero', 'NN'), ('lose', 'VBZ')]",2,0,2,hero lose,hero lose
+58,64,it was all a dream,"[('it', 'PRP'), ('be', 'VBD'), ('all', 'PDT'), ('a', 'DT'), ('dream', 'NN')]",5,4,1,it be all a dream,dream
+59,65,it rains,"[('it', 'PRP'), ('rain', 'VBZ')]",2,1,1,it rain,rain
+60,66,it snows,"[('it', 'PRP'), ('snow', 'VBZ')]",2,1,1,it snow,snow
+61,67,it rains a lot,"[('it', 'PRP'), ('rain', 'VBZ'), ('a', 'DT'), ('lot', 'NN')]",4,2,2,it rain a lot,rain lot
+62,68,it was all in their head,"[('it', 'PRP'), ('be', 'VBD'), ('all', 'RB'), ('in', 'IN'), ('they', 'PRP$'), ('head', 'NN')]",6,5,1,it be all in they head,head
+63,69,inanimate objects come to life,"[('inanimate', 'JJ'), ('object', 'NNS'), ('come', 'VBP'), ('to', 'IN'), ('life', 'NN')]",5,1,4,inanimate object come to life,inanimate object come life
+64,70,iron man appears,"[('iron', 'JJ'), ('man', 'NN'), ('appear', 'VBZ')]",3,0,3,iron man appear,iron man appear
+65,71,it rains the whole time,"[('it', 'PRP'), ('rain', 'VBZ'), ('the', 'DT'), ('whole', 'JJ'), ('time', 'NN')]",5,2,3,it rain the whole time,rain whole time
+67,73,jock falls for nerd,"[('jock', 'NN'), ('fall', 'VBZ'), ('for', 'IN'), ('nerd', 'NN')]",4,1,3,jock fall for nerd,jock fall nerd
+68,74,justice is served,"[('justice', 'NN'), ('be', 'VBZ'), ('serve', 'VBN')]",3,1,2,justice be serve,justice serve
+71,77,joker appears,"[('joker', 'NN'), ('appear', 'VBZ')]",2,0,2,joker appear,joker appear
+72,80,kids have powers,"[('kid', 'NNS'), ('have', 'VBP'), ('power', 'NNS')]",3,1,2,kid have power,kid power
+73,81,kids die,"[('kid', 'NNS'), ('die', 'VBP')]",2,0,2,kid die,kid die
+74,82,kidnapper falls in love with victim,"[('kidnapper', 'NN'), ('fall', 'VBZ'), ('in', 'IN'), ('love', 'NN'), ('with', 'IN'), ('victim', 'NN')]",6,2,4,kidnapper fall in love with victim,kidnapper fall love victim
+75,83,kid gets kidnapped,"[('kid', 'NN'), ('get', 'VBZ'), ('kidnap', 'VBN')]",3,0,3,kid get kidnap,kid get kidnap
+77,85,kid gets bullied,"[('kid', 'NN'), ('get', 'VBZ'), ('bully', 'VBN')]",3,0,3,kid get bully,kid get bully
+78,86,killer falls in love,"[('killer', 'NN'), ('fall', 'VBZ'), ('in', 'IN'), ('love', 'NN')]",4,1,3,killer fall in love,killer fall love
+80,88,love conquers all,"[('love', 'NN'), ('conquer', 'VBZ'), ('all', 'DT')]",3,1,2,love conquer all,love conquer
+82,90,lovers can't be together,"[('lover', 'NNS'), ('can', 'MD'), ('not', 'RB'), ('be', 'VB'), ('together', 'RB')]",4,1,3,lover can not be together,lover together
+83,91,lighting is important,"[('lighting', 'NN'), ('be', 'VBZ'), ('important', 'JJ')]",3,1,2,lighting be important,lighting important
+84,92,lovers reunite,"[('lover', 'NNS'), ('reunite', 'VBP')]",2,0,2,lover reunite,lover reunite
+85,93,love interest dies,"[('love', 'NN'), ('interest', 'NN'), ('die', 'VBZ')]",3,0,3,love interest die,love interest die
+86,94,lover dies,"[('lover', 'NN'), ('die', 'VBZ')]",2,0,2,lover die,lover die
+88,96,main character dies,"[('main', 'JJ'), ('character', 'NN'), ('die', 'VBZ')]",3,0,3,main character die,main character die
+89,97,mother dies in childbirth,"[('mother', 'NN'), ('die', 'VBZ'), ('in', 'IN'), ('childbirth', 'NN')]",4,1,3,mother die in childbirth,mother die childbirth
+90,98,mafia falls in love,"[('mafia', 'NN'), ('fall', 'VBZ'), ('in', 'IN'), ('love', 'NN')]",4,1,3,mafia fall in love,mafia fall love
+93,101,main character is secretly strong,"[('main', 'JJ'), ('character', 'NN'), ('be', 'VBZ'), ('secretly', 'RB'), ('strong', 'JJ')]",5,1,4,main character be secretly strong,main character secretly strong
+95,103,mom dies,"[('mom', 'NN'), ('die', 'VBZ')]",2,0,2,mom die,mom die
+96,104,nothing happens,"[('nothing', 'NN'), ('happen', 'VBZ')]",2,0,2,nothing happen,nothing happen
+97,105,nothing bad happens,"[('nothing', 'NN'), ('bad', 'JJ'), ('happen', 'VBZ')]",3,0,3,nothing bad happen,nothing bad happen
+98,106,no one dies,"[('no', 'DT'), ('one', 'NN'), ('die', 'VBZ')]",3,1,2,no one die,one die
+99,107,no one believes the main character,"[('no', 'DT'), ('one', 'NN'), ('believe', 'VBZ'), ('the', 'DT'), ('main', 'JJ'), ('character', 'NN')]",6,2,4,no one believe the main character,one believe main character
+101,109,nukes go off,"[('nuke', 'NNS'), ('go', 'VBP'), ('off', 'RB')]",3,1,2,nuke go off,nuke go
+102,110,nazis won,"[('nazi', 'NNS'), ('win', 'VBD')]",2,1,1,nazi win,nazi win
+103,111,nuclear bomb goes off,"[('nuclear', 'JJ'), ('bomb', 'NN'), ('go', 'VBZ'), ('off', 'RB')]",4,1,3,nuclear bomb go off,nuclear bomb go
+104,112,opposites attract,"[('opposite', 'NNS'), ('attract', 'VBP')]",2,0,2,opposite attract,opposite attract
+105,113,one person plays multiple roles,"[('one', 'CD'), ('person', 'NN'), ('play', 'VBZ'), ('multiple', 'JJ'), ('role', 'NNS')]",5,0,5,one person play multiple role,one person play multiple role
+106,115,one person makes a difference,"[('one', 'CD'), ('person', 'NN'), ('make', 'VBZ'), ('a', 'DT'), ('difference', 'NN')]",5,1,4,one person make a difference,one person make difference
+107,116,one person plays twins,"[('one', 'CD'), ('person', 'NN'), ('play', 'VBZ'), ('twin', 'NNS')]",4,0,4,one person play twin,one person play twin
+109,120,people have powers,"[('people', 'NNS'), ('have', 'VBP'), ('power', 'NNS')]",3,1,2,people have power,people power
+110,121,popular guy falls for nerd,"[('popular', 'JJ'), ('guy', 'NN'), ('fall', 'VBZ'), ('for', 'IN'), ('nerd', 'NN')]",5,1,4,popular guy fall for nerd,popular guy fall nerd
+111,122,people are trapped,"[('people', 'NNS'), ('be', 'VBP'), ('trap', 'VBN')]",3,1,2,people be trap,people trap
+112,123,people switch bodies,"[('people', 'NNS'), ('switch', 'VBP'), ('body', 'NNS')]",3,0,3,people switch body,people switch body
+113,124,popular girl falls for nerd,"[('popular', 'JJ'), ('girl', 'NN'), ('fall', 'VBZ'), ('for', 'IN'), ('nerd', 'NN')]",5,1,4,popular girl fall for nerd,popular girl fall nerd
+114,125,parents die,"[('parent', 'NNS'), ('die', 'VBP')]",2,0,2,parent die,parent die
+115,126,people turn into animals,"[('people', 'NNS'), ('turn', 'VBP'), ('into', 'IN'), ('animal', 'NNS')]",4,1,3,people turn into animal,people turn animal
+116,127,people are hunted,"[('people', 'NNS'), ('be', 'VBP'), ('hunt', 'VBN')]",3,1,2,people be hunt,people hunt
+117,136,robots take over,"[('robot', 'NNS'), ('take', 'VBP'), ('over', 'RB')]",3,1,2,robot take over,robot take
+118,137,rich guy falls in love,"[('rich', 'JJ'), ('guy', 'NN'), ('fall', 'VBZ'), ('in', 'IN'), ('love', 'NN')]",5,1,4,rich guy fall in love,rich guy fall love
+119,138,robots take over the world,"[('robot', 'NNS'), ('take', 'VBP'), ('over', 'IN'), ('the', 'DT'), ('world', 'NN')]",5,2,3,robot take over the world,robot take world
+121,140,robots go bad,"[('robot', 'NNS'), ('go', 'VBP'), ('bad', 'JJ')]",3,0,3,robot go bad,robot go bad
+122,141,robots become self aware,"[('robot', 'NNS'), ('become', 'VBP'), ('self', 'NN'), ('aware', 'JJ')]",4,0,4,robot become self aware,robot become self aware
+124,146,someone dies,"[('someone', 'NN'), ('die', 'VBZ')]",2,0,2,someone die,someone die
+125,147,someone is poisoned,"[('someone', 'NN'), ('be', 'VBZ'), ('poison', 'VBN')]",3,1,2,someone be poison,someone poison
+126,148,sound is important,"[('sound', 'NN'), ('be', 'VBZ'), ('important', 'JJ')]",3,1,2,sound be important,sound important
+127,149,strangers are trapped together,"[('stranger', 'NNS'), ('be', 'VBP'), ('trap', 'VBN'), ('together', 'RB')]",4,1,3,stranger be trap together,stranger trap together
+128,150,son kills father,"[('son', 'NN'), ('kill', 'VBZ'), ('father', 'NN')]",3,0,3,son kill father,son kill father
+129,152,the bad guy wins,"[('the', 'DT'), ('bad', 'JJ'), ('guy', 'NN'), ('win', 'VBZ')]",4,1,3,the bad guy win,bad guy win
+130,153,the day repeats itself,"[('the', 'DT'), ('day', 'NN'), ('repeat', 'VBZ'), ('itself', 'PRP')]",4,2,2,the day repeat itself,day repeat
+131,154,the main character dies,"[('the', 'DT'), ('main', 'JJ'), ('character', 'NN'), ('die', 'VBZ')]",4,1,3,the main character die,main character die
+132,157,the villain wins,"[('the', 'DT'), ('villain', 'NN'), ('win', 'VBZ')]",3,1,2,the villain win,villain win
+133,158,the world ends,"[('the', 'DT'), ('world', 'NN'), ('end', 'VBZ')]",3,1,2,the world end,world end
+134,160,underdogs win,"[('underdog', 'NNS'), ('win', 'VBP')]",2,0,2,underdog win,underdog win
+135,161,unpopular girl gets the guy,"[('unpopular', 'JJ'), ('girl', 'NN'), ('get', 'VBZ'), ('the', 'DT'), ('guy', 'NN')]",5,1,4,unpopular girl get the guy,unpopular girl get guy
+136,162,underdog gets the girl,"[('underdog', 'NN'), ('get', 'VBZ'), ('the', 'DT'), ('girl', 'NN')]",4,1,3,underdog get the girl,underdog get girl
+137,163,unpopular girl becomes popular,"[('unpopular', 'JJ'), ('girl', 'NN'), ('become', 'VBZ'), ('popular', 'JJ')]",4,0,4,unpopular girl become popular,unpopular girl become popular
+138,164,u can lay down,"[('u', 'PRP'), ('can', 'MD'), ('lay', 'VB'), ('down', 'RP')]",4,2,2,u can lay down,u lay
+140,168,villain wins,"[('villain', 'NN'), ('win', 'NNS')]",2,0,2,villain win,villain win
+141,169,villain falls in love,"[('villain', 'NN'), ('fall', 'VBZ'), ('in', 'IN'), ('love', 'NN')]",4,1,3,villain fall in love,villain fall love
+142,170,video games come to life,"[('video', 'NN'), ('game', 'NNS'), ('come', 'VBP'), ('to', 'IN'), ('life', 'NN')]",5,1,4,video game come to life,video game come life
+143,171,victims fight back,"[('victim', 'NNS'), ('fight', 'VBP'), ('back', 'RB')]",3,0,3,victim fight back,victim fight back
+144,172,villain becomes hero,"[('villain', 'NN'), ('become', 'VBZ'), ('hero', 'NN')]",3,0,3,villain become hero,villain become hero
+145,173,vampires fall in love with humans,"[('vampire', 'NNS'), ('fall', 'VBP'), ('in', 'IN'), ('love', 'NN'), ('with', 'IN'), ('human', 'NNS')]",6,2,4,vampire fall in love with human,vampire fall love human
+146,174,villains won,"[('villain', 'NNS'), ('win', 'VBD')]",2,1,1,villain win,villain win
+147,175,villains are the main characters,"[('villain', 'NNS'), ('be', 'VBP'), ('the', 'DT'), ('main', 'JJ'), ('character', 'NNS')]",5,2,3,villain be the main character,villain main character
+148,176,wife dies,"[('wife', 'NN'), ('die', 'VBZ')]",2,0,2,wife die,wife die
+149,177,wife kills husband,"[('wife', 'NN'), ('kill', 'VBZ'), ('husband', 'NN')]",3,0,3,wife kill husband,wife kill husband
+150,178,world ends,"[('world', 'NN'), ('end', 'NNS')]",2,0,2,world end,world end
+151,179,woman is held captive,"[('woman', 'NN'), ('be', 'VBZ'), ('hold', 'VBN'), ('captive', 'JJ')]",4,1,3,woman be hold captive,woman hold captive
+152,180,woman falls in love with kidnapper,"[('woman', 'NN'), ('fall', 'VBZ'), ('in', 'IN'), ('love', 'NN'), ('with', 'IN'), ('kidnapper', 'NN')]",6,2,4,woman fall in love with kidnapper,woman fall love kidnapper
+153,181,woman beats up man,"[('woman', 'NN'), ('beat', 'VBZ'), ('up', 'RP'), ('man', 'NN')]",4,1,3,woman beat up man,woman beat man
+154,182,wife is murdered,"[('wife', 'NN'), ('be', 'VBZ'), ('murder', 'VBN')]",3,1,2,wife be murder,wife murder
+156,192,you root for the bad guy,"[('you', 'PRP'), ('root', 'VBP'), ('for', 'IN'), ('the', 'DT'), ('bad', 'JJ'), ('guy', 'NN')]",6,3,3,you root for the bad guy,root bad guy
+157,193,you pick what happens,"[('you', 'PRP'), ('pick', 'VBP'), ('what', 'WP'), ('happen', 'VBZ')]",4,2,2,you pick what happen,pick happen
+158,194,you make choices,"[('you', 'PRP'), ('make', 'VBP'), ('choice', 'NNS')]",3,1,2,you make choice,make choice
+159,195,you can pick what happens,"[('you', 'PRP'), ('can', 'MD'), ('pick', 'VB'), ('what', 'WP'), ('happen', 'VBZ')]",5,3,2,you can pick what happen,pick happen
+160,196,you have to be quiet,"[('you', 'PRP'), ('have', 'VBP'), ('to', 'TO'), ('be', 'VB'), ('quiet', 'JJ')]",5,4,1,you have to be quiet,quiet
+161,197,you have to think,"[('you', 'PRP'), ('have', 'VBP'), ('to', 'TO'), ('think', 'VB')]",4,3,1,you have to think,think
+162,198,you can make choices,"[('you', 'PRP'), ('can', 'MD'), ('make', 'VB'), ('choice', 'NNS')]",4,2,2,you can make choice,make choice
+163,199,you can see the camera,"[('you', 'PRP'), ('can', 'MD'), ('see', 'VB'), ('the', 'DT'), ('camera', 'NN')]",5,3,2,you can see the camera,see camera
+164,200,zombies talk,"[('zomby', 'NNS'), ('talk', 'VBP')]",2,0,2,zomby talk,zomby talk
+165,201,zombies run,"[('zomby', 'NNS'), ('run', 'VBP')]",2,0,2,zomby run,zomby run
+167,226,aliens invade,"[('alien', 'NNS'), ('invade', 'VBP')]",2,0,2,alien invade,alien invade
+168,230,bad boy falls for good girl,"[('bad', 'JJ'), ('boy', 'NN'), ('fall', 'VBZ'), ('for', 'IN'), ('good', 'JJ'), ('girl', 'NN')]",6,1,5,bad boy fall for good girl,bad boy fall good girl
+169,233,black and white fall in love,"[('black', 'JJ'), ('and', 'CC'), ('white', 'JJ'), ('fall', 'NN'), ('in', 'IN'), ('love', 'NN')]",6,2,4,black and white fall in love,black white fall love
+170,234,bad guy falls for good girl,"[('bad', 'JJ'), ('guy', 'NN'), ('fall', 'VBZ'), ('for', 'IN'), ('good', 'JJ'), ('girl', 'NN')]",6,1,5,bad guy fall for good girl,bad guy fall good girl
+171,235,boss falls in love with employee,"[('boss', 'NN'), ('fall', 'VBZ'), ('in', 'IN'), ('love', 'NN'), ('with', 'IN'), ('employee', 'NN')]",6,2,4,boss fall in love with employee,boss fall love employee
+172,236,characters hate each other then fall in love,"[('character', 'NNS'), ('hate', 'VBP'), ('each', 'DT'), ('other', 'JJ'), ('then', 'RB'), ('fall', 'VBP'), ('in', 'IN'), ('love', 'NN')]",8,4,4,character hate each other then fall in love,character hate fall love
+173,240,computers take over,"[('computer', 'NNS'), ('take', 'VBP'), ('over', 'RB')]",3,1,2,computer take over,computer take
+174,242,cars come to life,"[('car', 'NNS'), ('come', 'VBP'), ('to', 'IN'), ('life', 'NN')]",4,1,3,car come to life,car come life
+175,243,cops get killed,"[('cop', 'NNS'), ('get', 'VBP'), ('kill', 'VBN')]",3,0,3,cop get kill,cop get kill
+176,245,different communicative strategies were employed in one conversation,"[('different', 'JJ'), ('communicative', 'JJ'), ('strategy', 'NNS'), ('be', 'VBD'), ('employ', 'VBN'), ('in', 'IN'), ('one', 'CD'), ('conversation', 'NN')]",8,2,6,different communicative strategy be employ in one conversation,different communicative strategy employ one conversation
+177,256,enemies become lovers,"[('enemy', 'NNS'), ('become', 'VBP'), ('lover', 'NNS')]",3,0,3,enemy become lover,enemy become lover
+178,267,food is important,"[('food', 'NN'), ('be', 'VBZ'), ('important', 'JJ')]",3,1,2,food be important,food important
+179,269,girl falls for kidnapper,"[('girl', 'NN'), ('fall', 'VBZ'), ('for', 'IN'), ('kidnapper', 'NN')]",4,1,3,girl fall for kidnapper,girl fall kidnapper
+180,270,good girl falls for bad guy,"[('good', 'JJ'), ('girl', 'NN'), ('fall', 'VBZ'), ('for', 'IN'), ('bad', 'JJ'), ('guy', 'NN')]",6,1,5,good girl fall for bad guy,good girl fall bad guy
+181,272,girl falls for bad boy,"[('girl', 'NN'), ('fall', 'VBZ'), ('for', 'IN'), ('bad', 'JJ'), ('boy', 'NN')]",5,1,4,girl fall for bad boy,girl fall bad boy
+182,273,girl pretend to be a boy,"[('girl', 'NN'), ('pretend', 'VB'), ('to', 'TO'), ('be', 'VB'), ('a', 'DT'), ('boy', 'NN')]",6,3,3,girl pretend to be a boy,girl pretend boy
+183,274,girl dies,"[('girl', 'NN'), ('die', 'VBZ')]",2,0,2,girl die,girl die
+184,275,guys protect the girl,"[('guy', 'NNS'), ('protect', 'VBP'), ('the', 'DT'), ('girl', 'NN')]",4,1,3,guy protect the girl,guy protect girl
+185,278,haters become lovers,"[('hater', 'NNS'), ('become', 'VBP'), ('lover', 'NNS')]",3,0,3,hater become lover,hater become lover
+186,279,hero sacrifices himself,"[('hero', 'NN'), ('sacrifice', 'NNS'), ('himself', 'PRP')]",3,1,2,hero sacrifice himself,hero sacrifice
+187,280,hero becomes villain,"[('hero', 'NN'), ('become', 'VBZ'), ('villain', 'NN')]",3,0,3,hero become villain,hero become villain
+190,304,love doesn't work out,"[('love', 'NN'), ('do', 'VBZ'), ('not', 'RB'), ('work', 'VB'), ('out', 'RP')]",4,2,2,love do not work out,love work
+191,310,lookalikes switch places,"[('lookalike', 'NNS'), ('switch', 'VBP'), ('place', 'NNS')]",3,0,3,lookalike switch place,lookalike switch place
+197,318,no one survives,"[('no', 'DT'), ('one', 'NN'), ('survive', 'VBZ')]",3,1,2,no one survive,one survive
+198,320,nerd becomes popular,"[('nerd', 'NN'), ('become', 'VBZ'), ('popular', 'JJ')]",3,0,3,nerd become popular,nerd become popular
+199,326,older woman falls in love with younger man,"[('old', 'JJR'), ('woman', 'NN'), ('fall', 'VBZ'), ('in', 'IN'), ('love', 'NN'), ('with', 'IN'), ('young', 'JJR'), ('man', 'NN')]",8,2,6,old woman fall in love with young man,old woman fall love young man
+200,332,popular boy falls for nerd,"[('popular', 'JJ'), ('boy', 'NN'), ('fall', 'VBZ'), ('for', 'IN'), ('nerd', 'NN')]",5,1,4,popular boy fall for nerd,popular boy fall nerd
+201,333,protagonist dies,"[('protagonist', 'NN'), ('die', 'VBZ')]",2,0,2,protagonist die,protagonist die
+202,334,popular girl falls for unpopular guy,"[('popular', 'JJ'), ('girl', 'NN'), ('fall', 'VBZ'), ('for', 'IN'), ('unpopular', 'JJ'), ('guy', 'NN')]",6,1,5,popular girl fall for unpopular guy,popular girl fall unpopular guy
+203,335,poor become rich,"[('poor', 'JJ'), ('become', 'VB'), ('rich', 'JJ')]",3,0,3,poor become rich,poor become rich
+204,337,rich girl falls for poor guy,"[('rich', 'JJ'), ('girl', 'NN'), ('fall', 'VBZ'), ('for', 'IN'), ('poor', 'JJ'), ('guy', 'NN')]",6,1,5,rich girl fall for poor guy,rich girl fall poor guy
+205,338,rich guy fall in love with poor girl,"[('rich', 'JJ'), ('guy', 'NN'), ('fall', 'NN'), ('in', 'IN'), ('love', 'NN'), ('with', 'IN'), ('poor', 'JJ'), ('girl', 'NN')]",8,2,6,rich guy fall in love with poor girl,rich guy fall love poor girl
+206,339,rich boy falls for poor girl,"[('rich', 'JJ'), ('boy', 'NN'), ('fall', 'VBZ'), ('for', 'IN'), ('poor', 'JJ'), ('girl', 'NN')]",6,1,5,rich boy fall for poor girl,rich boy fall poor girl
+207,344,students fall in love with teachers,"[('student', 'NNS'), ('fall', 'VBP'), ('in', 'IN'), ('love', 'NN'), ('with', 'IN'), ('teacher', 'NNS')]",6,2,4,student fall in love with teacher,student fall love teacher
+208,347,someone goes to jail,"[('someone', 'NN'), ('go', 'VBZ'), ('to', 'IN'), ('jail', 'NN')]",4,1,3,someone go to jail,someone go jail
+209,349,someone pretends to be someone else,"[('someone', 'NN'), ('pretend', 'VBZ'), ('to', 'TO'), ('be', 'VB'), ('someone', 'NN'), ('else', 'JJ')]",6,2,4,someone pretend to be someone else,someone pretend someone else
+210,351,someone gets hit by a car,"[('someone', 'NN'), ('get', 'VBZ'), ('hit', 'VBN'), ('by', 'IN'), ('a', 'DT'), ('car', 'NN')]",6,2,4,someone get hit by a car,someone get hit car
+211,352,the hero dies,"[('the', 'DT'), ('hero', 'NN'), ('die', 'VBZ')]",3,1,2,the hero die,hero die
+212,353,the guy gets the girl in the end,"[('the', 'DT'), ('guy', 'NN'), ('get', 'VBZ'), ('the', 'DT'), ('girl', 'NN'), ('in', 'IN'), ('the', 'DT'), ('end', 'NN')]",8,4,4,the guy get the girl in the end,guy get girl end
+213,354,the main character is the villain,"[('the', 'DT'), ('main', 'JJ'), ('character', 'NN'), ('be', 'VBZ'), ('the', 'DT'), ('villain', 'NN')]",6,3,3,the main character be the villain,main character villain
+214,355,ugly girl gets makeover,"[('ugly', 'JJ'), ('girl', 'NN'), ('get', 'VBZ'), ('makeover', 'NN')]",4,0,4,ugly girl get makeover,ugly girl get makeover
+215,362,villain was right,"[('villain', 'NN'), ('be', 'VBD'), ('right', 'JJ')]",3,1,2,villain be right,villain right
+216,363,villain win,"[('villain', 'NN'), ('win', 'NN')]",2,0,2,villain win,villain win
+217,368,villains turned good,"[('villain', 'NNS'), ('turn', 'VBD'), ('good', 'JJ')]",3,0,3,villain turn good,villain turn good
+218,370,woman gets revenge,"[('woman', 'NN'), ('get', 'VBZ'), ('revenge', 'NN')]",3,0,3,woman get revenge,woman get revenge
+219,371,weak guy becomes strong,"[('weak', 'JJ'), ('guy', 'NN'), ('become', 'VBZ'), ('strong', 'JJ')]",4,0,4,weak guy become strong,weak guy become strong
+220,375,white house is attacked,"[('white', 'JJ'), ('house', 'NN'), ('be', 'VBZ'), ('attack', 'VBN')]",4,1,3,white house be attack,white house attack
+221,378,you can move the screen,"[('you', 'PRP'), ('can', 'MD'), ('move', 'VB'), ('the', 'DT'), ('screen', 'NN')]",5,3,2,you can move the screen,move screen
+222,379,you can see the stunt double,"[('you', 'PRP'), ('can', 'MD'), ('see', 'VB'), ('the', 'DT'), ('stunt', 'NN'), ('double', 'RB')]",6,3,3,you can see the stunt double,see stunt double
+223,381,you choose what happens,"[('you', 'PRP'), ('choose', 'VBP'), ('what', 'WP'), ('happen', 'VBZ')]",4,2,2,you choose what happen,choose happen
+224,384,you root for the villain,"[('you', 'PRP'), ('root', 'VBP'), ('for', 'IN'), ('the', 'DT'), ('villain', 'NN')]",5,3,2,you root for the villain,root villain
+225,396,the dog dies,"[('the', 'DT'), ('dog', 'NN'), ('die', 'VBZ')]",3,1,2,the dog die,dog die
+226,399,animals talk,"[('animal', 'NNS'), ('talk', 'VBP')]",2,0,2,animal talk,animal talk
+227,408,a dog dies,"[('a', 'DT'), ('dog', 'NN'), ('die', 'VBZ')]",3,1,2,a dog die,dog die
+228,409,a girl is kidnapped,"[('a', 'DT'), ('girl', 'NN'), ('be', 'VBZ'), ('kidnap', 'VBN')]",4,2,2,a girl be kidnap,girl kidnap
+229,410,a parent dies,"[('a', 'DT'), ('parent', 'NN'), ('die', 'VBZ')]",3,1,2,a parent die,parent die
+230,411,a main character dies,"[('a', 'DT'), ('main', 'JJ'), ('character', 'NN'), ('die', 'VBZ')]",4,1,3,a main character die,main character die
+231,412,a lot of characters die,"[('a', 'DT'), ('lot', 'NN'), ('of', 'IN'), ('character', 'NNS'), ('die', 'VBP')]",5,2,3,a lot of character die,lot character die
+232,415,bad guy wins,"[('bad', 'JJ'), ('guy', 'NN'), ('win', 'VBZ')]",3,0,3,bad guy win,bad guy win
+233,419,babies talk,"[('baby', 'NNS'), ('talk', 'VBP')]",2,0,2,baby talk,baby talk
+234,420,bad guy turns good,"[('bad', 'JJ'), ('guy', 'NN'), ('turn', 'VBZ'), ('good', 'JJ')]",4,0,4,bad guy turn good,bad guy turn good
+235,428,child dies,"[('child', 'NN'), ('die', 'VBZ')]",2,0,2,child die,child die
+236,443,everyone is the same,"[('everyone', 'NN'), ('be', 'VBZ'), ('the', 'DT'), ('same', 'JJ')]",4,3,1,everyone be the same,everyone
+237,444,earth is in danger,"[('earth', 'NN'), ('be', 'VBZ'), ('in', 'IN'), ('danger', 'NN')]",4,2,2,earth be in danger,earth danger
+238,453,the wild things are,"[('the', 'DT'), ('wild', 'JJ'), ('thing', 'NNS'), ('be', 'VBP')]",4,2,2,the wild thing be,wild thing
+239,456,the red fern grows,"[('the', 'DT'), ('red', 'JJ'), ('fern', 'NN'), ('grow', 'VBZ')]",4,1,3,the red fern grow,red fern grow
+240,459,hope grows,"[('hope', 'NN'), ('grow', 'VBZ')]",2,0,2,hope grow,hope grow
+241,465,godzilla is the good guy,"[('godzilla', 'NNP'), ('be', 'VBZ'), ('the', 'DT'), ('good', 'JJ'), ('guy', 'NN')]",5,2,3,godzilla be the good guy,godzilla good guy
+242,466,good guy turns bad,"[('good', 'JJ'), ('guy', 'NN'), ('turn', 'VBZ'), ('bad', 'JJ')]",4,0,4,good guy turn bad,good guy turn bad
+243,474,horses die,"[('horse', 'NNS'), ('die', 'VBP')]",2,0,2,horse die,horse die
+244,475,humans are the bad guys,"[('human', 'NNS'), ('be', 'VBP'), ('the', 'DT'), ('bad', 'JJ'), ('guy', 'NNS')]",5,2,3,human be the bad guy,human bad guy
+245,515,machines take over,"[('machine', 'NNS'), ('take', 'VBP'), ('over', 'RB')]",3,1,2,machine take over,machine take
+246,516,money doesn't buy happiness,"[('money', 'NN'), ('do', 'VBZ'), ('not', 'RB'), ('buy', 'VB'), ('happiness', 'NN')]",4,1,3,money do not buy happiness,money buy happiness
+247,523,nobody dies,"[('nobody', 'NN'), ('die', 'VBZ')]",2,0,2,nobody die,nobody die
+248,524,nobody wins,"[('nobody', 'NN'), ('win', 'VBZ')]",2,0,2,nobody win,nobody win
+249,553,robots fight,"[('robot', 'NNS'), ('fight', 'VBP')]",2,0,2,robot fight,robot fight
+250,563,someone comes back to life,"[('someone', 'NN'), ('come', 'VBZ'), ('back', 'RB'), ('to', 'IN'), ('life', 'NN')]",5,1,4,someone come back to life,someone come back life
+253,586,weather is important,"[('weather', 'NN'), ('be', 'VBZ'), ('important', 'JJ')]",3,1,2,weather be important,weather important
+254,591,weather is symbolic,"[('weather', 'NN'), ('be', 'VBZ'), ('symbolic', 'JJ')]",3,1,2,weather be symbolic,weather symbolic
+255,605,you eat,"[('you', 'PRP'), ('eat', 'VBP')]",2,1,1,you eat,eat
+256,607,you get to pick what happens,"[('you', 'PRP'), ('get', 'VBP'), ('to', 'TO'), ('pick', 'VB'), ('what', 'WP'), ('happen', 'VBZ')]",6,3,3,you get to pick what happen,get pick happen
+257,707,bad guy win,"[('bad', 'JJ'), ('guy', 'NN'), ('win', 'NN')]",3,0,3,bad guy win,bad guy win
+258,709,books are burned,"[('book', 'NNS'), ('be', 'VBP'), ('burn', 'VBN')]",3,1,2,book be burn,book burn
+259,717,children die,"[('child', 'NNS'), ('die', 'VBP')]",2,0,2,child die,child die
+260,718,characters die,"[('character', 'NNS'), ('die', 'VBP')]",2,0,2,character die,character die
+261,720,dolls come alive,"[('doll', 'NNS'), ('come', 'VBP'), ('alive', 'JJ')]",3,0,3,doll come alive,doll come alive
+262,726,friends betray one another,"[('friend', 'NNS'), ('betray', 'VBP'), ('one', 'CD'), ('another', 'DT')]",4,0,4,friend betray one another,friend betray one another
+264,754,kids date,"[('kid', 'NNS'), ('date', 'NN')]",2,0,2,kid date,kid date
+265,755,kids kiss,"[('kid', 'NNS'), ('kiss', 'VBP')]",2,0,2,kid kiss,kid kiss
+266,756,kids get bullied,"[('kid', 'NNS'), ('get', 'VBP'), ('bully', 'VBN')]",3,0,3,kid get bully,kid get bully
+268,766,men turn into women,"[('man', 'NNS'), ('turn', 'VBP'), ('into', 'IN'), ('woman', 'NNS')]",4,1,3,man turn into woman,man turn woman
+269,768,nature fights back,"[('nature', 'NN'), ('fight', 'NNS'), ('back', 'RB')]",3,0,3,nature fight back,nature fight back
+271,784,robots take over world,"[('robot', 'NNS'), ('take', 'VBP'), ('over', 'IN'), ('world', 'NN')]",4,1,3,robot take over world,robot take world
+272,799,villains become heroes,"[('villain', 'NNS'), ('become', 'VBP'), ('heroe', 'NNS')]",3,0,3,villain become heroe,villain become heroe
+273,805,women are objectified,"[('woman', 'NNS'), ('be', 'VBP'), ('objectify', 'VBN')]",3,1,2,woman be objectify,woman objectify
+274,807,women are poorly represented,"[('woman', 'NNS'), ('be', 'VBP'), ('poorly', 'RB'), ('represent', 'VBN')]",4,1,3,woman be poorly represent,woman poorly represent
+275,810,you can't make noise,"[('you', 'PRP'), ('can', 'MD'), ('not', 'RB'), ('make', 'VB'), ('noise', 'NN')]",4,1,3,you can not make noise,make noise
+276,811,you have to be silent,"[('you', 'PRP'), ('have', 'VBP'), ('to', 'TO'), ('be', 'VB'), ('silent', 'JJ')]",5,4,1,you have to be silent,silent
